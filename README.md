@@ -3,7 +3,7 @@ A python script that scrapes a radio station now playing site. I did not test it
 
 ## Needed librarys 
 1. Request 
-2. beautiful soup
+2. BeautifulSoup
 
 ## TODOS
  - [x] Write a basic scraper
