@@ -9,4 +9,5 @@ A python script that scrapes a radio station now playing site. I did not test it
  - [x] Write a basic scraper
 - [ ] Save to a file
 - [ ] Tells what time the song played
+- [ ] Add a GUI
 
