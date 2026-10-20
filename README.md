@@ -7,7 +7,7 @@ A python script that scrapes a radio station now playing site. I did not test it
 
 ## TODOS
  - [x] Write a basic scraper
-- [ ] Save to a file
-- [ ] Tells what time the song played
-- [ ] Add a GUI
+ - [x] Save to a file
+ - [x] Tells what time the song played
+ - [ ] Add a GUI
 
