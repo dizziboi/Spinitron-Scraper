@@ -1,5 +1,5 @@
 # Spinitron Scraper
-A python script that scrapes a radio station now playing site. I did not test it for any other station spinitron other than [Album 88](https://spinitron.com/WRAS/) and [KALX](https://widgets.spinitron.com/KALX/). I do not guarantee 100% compatibility.
+A python script that scrapes a station's spinitron now playing. I only tested this only on [Album 88](https://spinitron.com/WRAS/) and [KALX](https://widgets.spinitron.com/KALX/). I do not guarantee 100% compatibility with every station.
 
 ## Needed librarys 
 1. Request 
